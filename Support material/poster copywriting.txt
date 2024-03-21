@@ -1,0 +1,23 @@
+Main title: Exploring the Boundaries of Innovation: Theoretical Problem Solving(TRIZ)
+Subtitle: The secret weapon of innovation
+
+Introduction:
+1. General system analysis and application
+2. Innovation problems can be foreseen
+3. Specific principles and tools：Contradiction Matrix, 40 Invention Principles, Material-Field Analysis, Predicting Innovation Development Trends, Heterogeneity...
+4. Avoid pitfalls quickly and efficiently
+
+Motivation:
+1. Innovation is the cornerstone of success
+2. Coaching problem solvers through a proven framework of principles and methods
+3. Go beyond the limitations of traditional thinking
+4. Overcome complexity and shape the future
+
+Application:
+1. Engineering design: Solve contradictions and problems in various engineering designs.
+2. Product innovation: Improve product competitiveness.
+3. Technology development: Identify key technical contradictions and provide solutions.
+4. Innovation management: Assess the feasibility and risks of innovative projects to optimize innovation investment and resource allocation.
+5. Problem solving: Including technical issues, management issues, market issues, etc.
+
+As a systematic innovation method, TRIZ has been widely used in various fields and provides powerful tools and methods for solving problems and promoting innovation.
